@@ -1,6 +1,5 @@
 import streamlit as st
 st.image("https://drive.google.com/uc?export=view&id=1yPboLZJCv_j1YXoQPvosPHH5hKTzqbuv", caption="AI-Powered Streamlit App")
-", caption="AI-Powered Streamlit App")
 import json
 import base64
 from langchain_community.llms import OpenAI
