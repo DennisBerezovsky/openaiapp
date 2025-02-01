@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("file:///C:/Users/dbere/Downloads/cat%20pic.webp", caption="AI-Powered Streamlit App")
+st.image("C:\Users\dbere\OneDrive\Pictures\cat pic.png", caption="AI-Powered Streamlit App")
 import json
 import base64
 from langchain_community.llms import OpenAI
