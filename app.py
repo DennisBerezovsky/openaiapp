@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://drive.google.com/uc?export=view&id=1yPboLZJCv_j1YXoQPvosPHH5hKTzqbuv", caption="AI-Powered Streamlit App")
+st.image("https://oaidalleapiprodscus.blob.core.windows.net/private/org-AUCNtAn1zVfDly8kavDXWkyF/user-4NbVMBf6LitgY1mjJRbwA75r/img-31gng8JEi6hmxUKDyIF7cnju.png?st=2025-02-01T02%3A19%3A20Z&se=2025-02-01T04%3A19%3A20Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-01T00%3A12%3A05Z&ske=2025-02-02T00%3A12%3A05Z&sks=b&skv=2024-08-04&sig=SawlsqkagkV%2BbWqnU0AM4xaKaSb04zMHhcm0RQB8PAk%3D", caption="AI-Powered Streamlit App")
 import json
 import base64
 from langchain_community.llms import OpenAI
