@@ -1,5 +1,5 @@
 import streamlit as st
-import requests
+st.image(https://www.abposters.com/adorable-cat-lifting-weights-created-with-generative-ai-f578167942, caption="AI-Powered Streamlit App")
 import json
 import base64
 from langchain_community.llms import OpenAI
